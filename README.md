@@ -44,6 +44,7 @@ Excel:
 
 ## Files
 
-- Trading_Analysis.ipynb → Python analysis
+- notebooks → Python analysis
 - Trading_Strategy_Analysis.xlsx → Excel analysis
-- trading_dataset.csv → Dataset
+- dataset → withoutote.csv
+-         → withoutote.xlsx
