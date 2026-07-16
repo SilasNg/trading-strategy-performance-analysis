@@ -44,8 +44,7 @@ Excel:
 
 ## Files
 
-- notebooks → without-ote-analysis.ipynb → Python analysis
-- Trading Performance Dashboard.xlsx → Excel analysis
 - dataset → withoutote.csv → CSV Dataset
 - dataset → withoutote.xlsx → Excel Dataset
-     
+- notebooks → without-ote-analysis.ipynb → Python analysis
+- Trading Performance Dashboard.xlsx → Excel analysis
