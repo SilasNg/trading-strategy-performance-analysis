@@ -5,6 +5,7 @@ This project analyses the performance of a day trading strategy using Python and
 The objective was to identify factors influencing strategy performance and discover conditions associated with higher expectancy.
 
 <img width="554" height="428" alt="image" src="https://github.com/user-attachments/assets/3a472f15-3ded-4e50-aadd-e577f1db61f7" />
+
 The image above shows the simulated equity curve over n(168) trades using my strategy.
 
 ## Tools Used
