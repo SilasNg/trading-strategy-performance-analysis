@@ -47,4 +47,6 @@ Excel:
 - notebooks → Python analysis
 - Trading_Strategy_Analysis.xlsx → Excel analysis
 - dataset → withoutote.csv
+-         →
 -         → withoutote.xlsx
+-         
