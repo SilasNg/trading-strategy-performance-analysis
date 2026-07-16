@@ -8,6 +8,10 @@ The objective was to identify factors influencing strategy performance and disco
 
 The image above shows the simulated equity curve over n(168) trades using my strategy.
 
+<img width="829" height="418" alt="image" src="https://github.com/user-attachments/assets/f1329cac-fde7-48c8-b286-866434275343" />
+
+The image above shows a chart from my exploratory data analysis using Microsoft Excel.
+
 ## Tools Used
 
 - Python
